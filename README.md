@@ -20,7 +20,6 @@ L'analyse porte principalement sur les délais de livraison, les risques de reta
 **53 colonnes initiales**
 **51 colonnes après le premier nettoyage**
 
-
 ## Outils utilisés
 
 - Python,Pandas
