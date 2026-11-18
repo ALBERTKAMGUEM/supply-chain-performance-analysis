@@ -2,35 +2,33 @@
 
 ## Présentation du projet
 
-Ce projet personnel de Data Analytics a pour objectif d'analyser les performances d'une chaîne d'approvisionnement à l'aide de Python et Pandas.
+Projet Académique de data sur  les performances d'une chaîne d'approvisionnement.
 
-L'analyse porte principalement sur les délais de livraison, les risques de retard et la performance financière des commandes.
+L'analyse porte principalement sur les délais de livraison, les risques de retard et la performance financière.
 
 ## Objectifs
 
 - Mesurer les performances logistiques.
-- Identifier les retards de livraison.
-- Comparer les délais de livraison réels et prévus.
+- Identifier et comaparer les retards de livraison.
 - Analyser les ventes et la rentabilité.
-- Identifier des pistes d'amélioration de la performance Supply Chain.
+- Faire des recommandations sur  des pistes d'amélioration de la performance Supply Chain.
 
 ## Dataset
 
 **Source :** DataCo Supply Chain Dataset
-
-- **180 519 lignes**
-- **53 colonnes initiales**
-- **51 colonnes après le premier nettoyage**
+**180 519 lignes**
+**53 colonnes initiales**
+**51 colonnes après le premier nettoyage**
 
 Les données comprennent notamment des informations sur les commandes, les clients, les produits, les livraisons et les ventes.
 
-## Technologies utilisées
+## Outils utilisés
 
-- Python
-- Pandas
+- Python,Pandas
 - Jupyter Notebook
 - Visual Studio Code
 - Git et GitHub
+- Data Studio
 
 ## Avancement du projet
 
@@ -55,6 +53,6 @@ Les données comprennent notamment des informations sur les commandes, les clien
 
 ## Auteur
 
-**Albert Kamguem**
+**Albert KAMGUEM**
 
-Projet personnel développé dans le cadre de ma montée en compétences en Data Analytics, avec une spécialisation dans l'analyse de la performance logistique et Supply Chain.
+
