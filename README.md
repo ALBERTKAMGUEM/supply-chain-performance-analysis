@@ -2,7 +2,7 @@
 
 ## Présentation du projet
 
-Projet Académique de data sur  les performances d'une chaîne d'approvisionnement.
+Projet sur les performances d'une chaîne d'approvisionnement.
 
 L'analyse porte principalement sur les délais de livraison, les risques de retard et la performance financière.
 
