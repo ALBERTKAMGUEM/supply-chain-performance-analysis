@@ -9,7 +9,7 @@ L'analyse porte principalement sur les délais de livraison, les risques de reta
 ## Objectifs
 
 - Mesurer les performances logistiques.
-- Identifier et comaparer les retards de livraison.
+- Identifier et comparer les retards de livraison.
 - Analyser les ventes et la rentabilité.
 - Faire des recommandations sur  des pistes d'amélioration de la Supply Chain.
 
