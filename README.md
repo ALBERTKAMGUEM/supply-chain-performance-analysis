@@ -1,60 +1,67 @@
 # Supply Chain Performance Analysis
 
-## Présentation du projet
+## 1. Présentation du projet
 
-Ce projet personnel de Data Analytics a pour objectif d'analyser les performances d'une chaîne d'approvisionnement à l'aide de Python et Pandas.
+Ce projet vise à analyser les performances commerciales, logistiques et financières d'une chaîne d'approvisionnement afin d'identifier des axes d'amélioration.
 
-L'analyse porte principalement sur les délais de livraison, les risques de retard et la performance financière des commandes.
+## 2. Objectifs
 
-## Objectifs
+- Analyser l'évolution des ventes.
+- Identifier les marchés les plus performants.
+- Évaluer les retards de livraison.
+- Analyser la rentabilité par marché et par catégorie de produits.
+- Formuler des recommandations opérationnelles.
 
-- Mesurer les performances logistiques.
-- Identifier les retards de livraison.
-- Comparer les délais de livraison réels et prévus.
-- Analyser les ventes et la rentabilité.
-- Identifier des pistes d'amélioration de la performance Supply Chain.
-
-## Dataset
-
-**Source :** DataCo Supply Chain Dataset
-
-- **180 519 lignes**
-- **53 colonnes initiales**
-- **51 colonnes après le premier nettoyage**
-
-Les données comprennent notamment des informations sur les commandes, les clients, les produits, les livraisons et les ventes.
-
-## Technologies utilisées
+## 3. Outils utilisés
 
 - Python
 - Pandas
 - Jupyter Notebook
-- Visual Studio Code
+- Google Data Studio
 - Git et GitHub
 
-## Avancement du projet
+## 4. Source des données
 
-- [x] Importation des données CSV
-- [x] Exploration initiale du dataset
-- [x] Identification des valeurs manquantes
-- [x] Création d'un DataFrame de travail
-- [x] Suppression de deux colonnes non pertinentes pour l'analyse
-- [ ] Analyse des retards de livraison
-- [ ] Calcul des KPI logistiques
-- [ ] Analyse financière
-- [ ] Visualisation des résultats
-- [ ] Synthèse et recommandations
+DataCo Supply Chain Dataset :
 
-## Indicateurs de performance prévus
+- 180 519 lignes
+- 53 variables initiales
 
-- Taux de retard de livraison
-- Délai moyen de livraison
-- Écart entre délais réels et prévus
-- Performance par mode de transport
-- Analyse des ventes et des bénéfices
+## 5. Méthodologie
 
-## Auteur
+- Importation et exploration des données.
+- Sélection et préparation des variables pertinentes.
+- Calcul des indicateurs de performance.
+- Visualisation des données dans Data Studio.
+- Interprétation des résultats et recommandations.
 
-**Albert Kamguem**
+## 6. Principaux résultats
 
-Projet personnel développé dans le cadre de ma montée en compétences en Data Analytics, avec une spécialisation dans l'analyse de la performance logistique et Supply Chain.
+| Indicateur | Valeur |
+|---|---:|
+| Nombre total de commandes | 65 752 |
+| Ventes totales | 36 784 735,01 |
+| Bénéfice total | 3 966 902,97 |
+| Taux de retard | 54,83 % |
+| Délai moyen d'expédition | 3,5 jours |
+| Marge sur ventes | 10,78 % |
+
+## 7. Dashboard interactif
+
+Le tableau de bord est organisé en trois pages :
+
+- Performance commerciale
+- Performance logistique et rentabilité
+- Conclusions et recommandations
+
+Lien du dashboard : https://datastudio.google.com/reporting/1eb293e8-d4fb-47ba-b49a-ed3530e579bd/page/p_6b50tx6n9d/edit
+
+## 8. Recommandations
+
+- Analyser la baisse des ventes en fin de période .
+- Réduire les retards de livraison, notamment pour First Class et Second Class.
+- Évaluer le potentiel commercial des catégories de produits à forte marge.
+
+## 9. Conclusion
+
+Cette analyse permet d'identifier les principales opportunités d'amélioration de la performance commerciale, logistique et financière de la chaîne d'approvisionnement.

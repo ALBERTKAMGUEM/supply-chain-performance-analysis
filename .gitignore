@@ -1,3 +1,4 @@
 DataCoSupplyChainDataset.csv
-*.Zone.Identifier
+*Zone.Identifier
 .ipynb_checkpoints/
+supply_chain_cleaned.csv
