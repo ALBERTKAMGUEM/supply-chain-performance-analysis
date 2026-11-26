@@ -25,7 +25,7 @@ Ce projet vise à analyser les performances commerciales, logistiques et financi
 DataCo Supply Chain Dataset :
 
 - 180 519 lignes
-- 53 variables initiales
+- 53 Colonnes
 
 ## 5. Méthodologie
 
@@ -37,8 +37,7 @@ DataCo Supply Chain Dataset :
 
 ## 6. Principaux résultats
 
-| Indicateur | Valeur |
-|---|---:|
+| KPI| Valeur |
 | Nombre total de commandes | 65 752 |
 | Ventes totales | 36 784 735,01 |
 | Bénéfice total | 3 966 902,97 |
