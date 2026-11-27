@@ -4,6 +4,8 @@
 
 Ce projet vise à analyser les performances commerciales, logistiques et financières d'une chaîne d'approvisionnement afin d'identifier des axes d'amélioration.
 
+Dataset : DataCo Smart Supply Chain disponible sur Kaggle contient des données relatives à la gestion de la chaîne logistique d'une entreprise de commerce en ligne (DataCo Global).
+
 ## 2. Objectifs
 
 - Analyser l'évolution des ventes.
